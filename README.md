@@ -34,19 +34,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">En-İyi-Benioku-Teması</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Projelerinize hızlı bir başlangıç ​​yapmak için harika bir BENİOKU şablonu!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/XTechnology-TR/En-iyi-README-Temasi"><strong>Dökümanları Keşfedin »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/XTechnology-TR/En-iyi-README-Temasi">Demo'yu Gör</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/XTechnology-TR/En-iyi-README-Temasi/issues">Hataları Raporla</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/XTechnology-TR/En-iyi-README-Temasi/issues">Özellik İstekleri</a>
   </p>
 </div>
 
@@ -54,55 +54,56 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>İçindekiler</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Proje Hakkında</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">İle İnşaa Edildi</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Başlarken</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Ön Koşullar</a></li>
+        <li><a href="#installation">Kurulum</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#usage">Kullanım</a></li>
+    <li><a href="#roadmap">Yol Haritasi</a></li>
+    <li><a href="#contributing">Katkı</a></li>
+    <li><a href="#license">Lisans</a></li>
+    <li><a href="#contact">İletişim</a></li>
+    <li><a href="#acknowledgments">Teşekkür</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Proje Hakkında
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+GitHub'da birçok harika README şablonu mevcuttur; ancak, ihtiyaçlarıma gerçekten uyan bir tane bulamadım, bu yüzden bu geliştirilmiş olanı oluşturdum. O kadar harika bir BENİOKU şablonu oluşturmak istiyorum ki ihtiyacınız olan son şablon bu olacak -- Sanırım bu kadar.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+İşte nedeni:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Zamanınız harika bir şey üretmeye odaklanmalıdır. Bir sorunu çözen ve başkalarına yardımcı olan bir proje
+sıfırdan bir BENİOKU oluşturmak gibi aynı görevleri tekrar tekrar yapmamalısınız.
+DRY ilkelerini hayatınızın geri kalanına uygulamalısınız. :)
 
-Use the `BLANK_README.md` to get started.
+Elbette, ihtiyaçlarınız farklı olabileceğinden, tek bir şablon tüm projelere hizmet etmeyecektir. Bu yüzden yakın gelecekte daha fazlasını ekleyeceğim. Ayrıca bu repoyu çatallayarak ve bir çekme isteği oluşturarak veya bir sorun açarak değişiklik önerebilirsiniz. Bu şablonun genişletilmesine katkıda bulunan herkese teşekkürler!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Başlamak için  `BLANK_README.md` öğesini kullanın.
+
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
-### Built With
+### İle İnşa Edildi
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Bu bölüm, projenizi önyüklemek için kullanılan tüm büyük çerçeveleri/kütüphaneleri listelemelidir. Tüm eklentileri/eklentileri teşekkür bölümü için bırakın. İşte birkaç örnek.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -113,118 +114,119 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Başlarken
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Bu, projenizi yerel olarak kurmaya ilişkin talimatları nasıl verebileceğinize bir örnektir. Yerel bir kopyayı çalışır duruma getirmek için bu basit örnek adımları izleyin.
 
-### Prerequisites
+### Önkoşullar
 
-This is an example of how to list things you need to use the software and how to install them.
+Bu, yazılımı kullanmak için ihtiyaç duyduğunuz şeylerin nasıl listeleneceğine ve bunların nasıl kurulacağına bir örnektir.
 * npm
   ```sh
   npm install npm@latest -g
   ```
 
-### Installation
+### Kurulum
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Aşağıda, kitlenize uygulamanızı yükleme ve kurma konusunda nasıl talimat verebileceğinize dair bir örnek verilmiştir. Bu şablon herhangi bir dış bağımlılığa veya hizmete dayanmaz.._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. [https://example.com](https://example.com) adresinden ücretsiz bir API Anahtarı edinin.
+2. Depoyu klonla
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+3. NPM paketlerini kurun
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. API'nizi girin `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Kullanım
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Bir projenin nasıl kullanılabileceğine dair yararlı örnekler göstermek için bu alanı kullanın. Ek ekran görüntüleri, kod örnekleri ve demolar bu alanda iyi çalışır. Ayrıca daha fazla kaynağa da bağlantı verebilirsiniz.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+_Daha fazla örnek için lütfen Belgelere bakın. [Documentation](https://example.com)_
+
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Yol Haritası
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Değişiklik günlüğü ekle
+- [x] Başa dön bağlantılarını ekle
+- [ ] Örneklerle Ek Şablonlar Ekleyin
+- [ ] Benioku'nun bölümlerini kolayca kopyalayıp yapıştırmak için "bileşenler" belgesi ekleyin
+- [ ] Çoklu Dil Desteği
+    - [ ] İngilizce
+    - [ ] Arapça
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+Önerilen özelliklerin (ve bilinen sorunların) tam listesi için [open issues](https://github.com/othneildrew/Best-README-Template/issues) (açık sorunlara) bakın.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Katkı
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Katkılar, açık kaynak topluluğunu öğrenmek, ilham vermek ve yaratmak için harika bir yer yapan şeydir. Yaptığınız katkılar **gerçekten çok değerlidir**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Bunu daha iyi hale getirecek bir öneriniz varsa, lütfen repoyu çatallayın ve bir çekme isteği oluşturun. Ayrıca "geliştirme" etiketiyle bir sorun açabilirsiniz. Projeye yıldız vermeyi unutmayın! Tekrar teşekkürler!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Projeyi Çatallayın
+2. Özellik Dalınızı Oluşturun (`git checkout -b feature/AmazingFeature`)
+3. Değişikliklerinizi Gerçekleştirin  (`git commit -m 'Add some AmazingFeature'`)
+4. Şubeye Gönder (`git push origin feature/AmazingFeature`)
+5. Bir Çekme İsteği Aç
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 <!-- LICENSE -->
-## License
+## Lisans ve Yasal Mevzuat
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için lütfen `LICENSE.txt` bakınız.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## İletişim
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Adınız - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Proje Bağlantısı: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Teşekkürler
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Yararlı bulduğunuz ve kaynak göstermek istediğiniz kaynakları listelemek için bu alanı kullanın. İşleri başlatmak için favorilerimden birkaçını dahil ettim!!
 
 * [Choose an Open Source License](https://choosealicense.com)
+* [X Technology Inc.](https://xtechnology.co)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
@@ -233,7 +235,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
